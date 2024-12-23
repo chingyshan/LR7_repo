@@ -1,0 +1,17 @@
+/home/chingyshan/Documents/453502/ОАиП/LR7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/chingyshan/Documents/453502/ОАиП/LR7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/chingyshan/Documents/453502/ОАиП/LR7/cmake-build-debug/Sub_project_Task1/CMakeFiles/Task1.dir
+/home/chingyshan/Documents/453502/ОАиП/LR7/cmake-build-debug/Sub_project_Task1/CMakeFiles/edit_cache.dir
+/home/chingyshan/Documents/453502/ОАиП/LR7/cmake-build-debug/Sub_project_Task1/CMakeFiles/rebuild_cache.dir
+/home/chingyshan/Documents/453502/ОАиП/LR7/cmake-build-debug/Sub_project_Task2/CMakeFiles/Task2.dir
+/home/chingyshan/Documents/453502/ОАиП/LR7/cmake-build-debug/Sub_project_Task2/CMakeFiles/edit_cache.dir
+/home/chingyshan/Documents/453502/ОАиП/LR7/cmake-build-debug/Sub_project_Task2/CMakeFiles/rebuild_cache.dir
+/home/chingyshan/Documents/453502/ОАиП/LR7/cmake-build-debug/Sub_project_Task3/CMakeFiles/Task3.dir
+/home/chingyshan/Documents/453502/ОАиП/LR7/cmake-build-debug/Sub_project_Task3/CMakeFiles/edit_cache.dir
+/home/chingyshan/Documents/453502/ОАиП/LR7/cmake-build-debug/Sub_project_Task3/CMakeFiles/rebuild_cache.dir
+/home/chingyshan/Documents/453502/ОАиП/LR7/cmake-build-debug/Sub_project_Task4/CMakeFiles/Task4.dir
+/home/chingyshan/Documents/453502/ОАиП/LR7/cmake-build-debug/Sub_project_Task4/CMakeFiles/edit_cache.dir
+/home/chingyshan/Documents/453502/ОАиП/LR7/cmake-build-debug/Sub_project_Task4/CMakeFiles/rebuild_cache.dir
+/home/chingyshan/Documents/453502/ОАиП/LR7/cmake-build-debug/Sub_project_Task5/CMakeFiles/Task5.dir
+/home/chingyshan/Documents/453502/ОАиП/LR7/cmake-build-debug/Sub_project_Task5/CMakeFiles/edit_cache.dir
+/home/chingyshan/Documents/453502/ОАиП/LR7/cmake-build-debug/Sub_project_Task5/CMakeFiles/rebuild_cache.dir

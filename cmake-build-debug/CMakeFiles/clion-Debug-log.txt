@@ -1,0 +1,4 @@
+/home/chingyshan/Downloads/CLion/clion-2024.2.1/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/chingyshan/Downloads/CLion/clion-2024.2.1/bin/ninja/linux/x64/ninja -G Ninja -S /home/chingyshan/Documents/453502/ОАиП/LR7 -B /home/chingyshan/Documents/453502/ОАиП/LR7/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/chingyshan/Documents/453502/ОАиП/LR7/cmake-build-debug

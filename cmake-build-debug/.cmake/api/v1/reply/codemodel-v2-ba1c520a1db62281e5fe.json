@@ -1,0 +1,231 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Sub_project_Task1",
+					"jsonFile" : "directory-Sub_project_Task1-Debug-076d03354db411465e7f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Sub_project_Task1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Sub_project_Task2",
+					"jsonFile" : "directory-Sub_project_Task2-Debug-4efd843a74228a5a7745.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Sub_project_Task2",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Sub_project_Task3",
+					"jsonFile" : "directory-Sub_project_Task3-Debug-a9ff687357412184077e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "Sub_project_Task3",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "Sub_project_Task4",
+					"jsonFile" : "directory-Sub_project_Task4-Debug-3f52d4f3856833f19a20.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "Sub_project_Task4",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "Sub_project_Task5",
+					"jsonFile" : "directory-Sub_project_Task5-Debug-e959cfc98473b35fd64a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "Sub_project_Task5",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LR7"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Task1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "Task1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "Task3",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "Task5",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "Task5",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Task1::@4c5c5921c5961515b795",
+					"jsonFile" : "target-Task1-Debug-2b27f9c1644bd3fdc4bf.json",
+					"name" : "Task1",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Task2::@d0b703cf2439d1d27d11",
+					"jsonFile" : "target-Task2-Debug-137664af6ebf0da1b4fc.json",
+					"name" : "Task2",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Task3::@e3c09476121499e2359f",
+					"jsonFile" : "target-Task3-Debug-8e26fd90ce0b6c7687f9.json",
+					"name" : "Task3",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "Task4::@1383221783a7eb0cb530",
+					"jsonFile" : "target-Task4-Debug-f02263d13f5512ef86e5.json",
+					"name" : "Task4",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Task5::@53d5e64c1411a8e2d75f",
+					"jsonFile" : "target-Task5-Debug-9bf02415a6ec8fd69532.json",
+					"name" : "Task5",
+					"projectIndex" : 5
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/chingyshan/Documents/453502/\u041e\u0410\u0438\u041f/LR7/cmake-build-debug",
+		"source" : "/home/chingyshan/Documents/453502/\u041e\u0410\u0438\u041f/LR7"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
